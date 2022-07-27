@@ -1,4 +1,3 @@
 # Github
 
-- Git init
-- Git add
+- Portfolio page.
